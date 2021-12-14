@@ -2,7 +2,7 @@
 
 I´m Catalina Arango, I´m a Software engineering student.
 
-##🌱 I’m currently learning:
+### 🌱 I’m currently learning:
 * Python
 * HTML, CSS, JS
 
