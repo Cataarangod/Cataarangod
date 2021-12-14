@@ -1,12 +1,16 @@
 ## Hi there 👋
 
-I´m Catalina Arango, I´m a Software engineering student.
+I´m Catalina Arango, I´m a Frontend Developer and a Software engineering student.
 
 ### 🌱 I’m currently learning:
 * Python
 * HTML, CSS, JS
 
-⚡ Fun fact: I´m a esports "pro player" for TLH
+### 📫 How to reach me:
+https://www.linkedin.com/in/cataarangoss/
+
+### ⚡ Fun fact: 
+I´m an esports "pro player" for @tlh3sports _special_
 <!--
 **Cataarangod/Cataarangod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
