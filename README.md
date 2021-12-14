@@ -6,11 +6,16 @@ I´m Catalina Arango, I´m a Frontend Developer and a Software engineering stude
 * Python
 * HTML, CSS, JS
 
+### 🔭 I´d like to learn:
+* React
+* SQL
+* .NET Framework
+
 ### 📫 How to reach me:
 https://www.linkedin.com/in/cataarangoss/
 
 ### ⚡ Fun fact: 
-I´m an esports "pro player" for @tlh3sports _special_
+I´m an esports "pro player" for _@tlh3sports_
 <!--
 **Cataarangod/Cataarangod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
