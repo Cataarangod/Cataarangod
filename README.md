@@ -18,6 +18,7 @@ https://www.linkedin.com/in/cataarangoss/
 I´m an esports "pro player" for _@tlh3sports_
 <!--
 **Cataarangod/Cataarangod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:3
 
 Here are some ideas to get you started:
 
