@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-I´m Catalina Arango, I´m a Frontend Developer and a Software engineering student.
+I´m Catalina Arango, I´m a Software Developer and a Software engineering student.
 
 ### 🌱 I’m currently learning:
 * Python
 * HTML, CSS, JS
+* 
 
 ### 🔭 I´d like to learn:
 * React
