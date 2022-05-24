@@ -4,8 +4,9 @@ I´m Catalina Arango, I´m a Software Developer and a Software engineering stude
 
 ### 🌱 I’m currently learning:
 * Python
-* HTML, CSS, JS
-* 
+* HTML
+* CSS
+* JS
 
 ### 🔭 I´d like to learn:
 * React
