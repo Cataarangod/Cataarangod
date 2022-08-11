@@ -11,6 +11,7 @@ I´m Catalina Arango, I´m a Software Developer and a Software engineering stude
 ### 🔭 I´d like to learn:
 * React
 * SQL
+* TypeScript
 * .NET Framework
 
 ### 📫 How to reach me:
