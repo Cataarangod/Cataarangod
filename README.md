@@ -7,6 +7,7 @@ I´m Catalina Arango, I´m a Software Developer and a Software engineering stude
 * HTML
 * CSS
 * JS
+* TS
 
 ### 🔭 I´d like to learn:
 * React
