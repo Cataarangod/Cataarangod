@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hey there 👋
 
-I´m Catalina Arango, I´m a Software Developer and a Software engineering student.
+I´m Catalina Arango, I´m a Junior Software Developer and a Software engineering student.
 
 ### 🌱 I’m currently learning:
 * Python
@@ -12,7 +12,6 @@ I´m Catalina Arango, I´m a Software Developer and a Software engineering stude
 ### 🔭 I´d like to learn:
 * React
 * SQL
-* TypeScript
 * .NET Framework
 
 ### 📫 How to reach me:
