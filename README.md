@@ -24,7 +24,6 @@
     ![Coursera](https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)
     ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
     ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 <br>
   
 - **Things I feel curious about**:
@@ -92,4 +91,7 @@
 Source
 https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/edit/master/templates/0xabdulkhalid.md
 
+
+Markdown Badges
+https://ileriayo.github.io/markdown-badges/
 -->
